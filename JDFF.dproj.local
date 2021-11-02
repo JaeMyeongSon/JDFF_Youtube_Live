@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/10/21 01:58:50.000.968,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/02 03:51:09.131,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/02 04:02:19.989,C:\Users\Administrator\Desktop\youtube-dl-JDFF\Unit1.dfm=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/11/02 04:02:19.989,C:\Users\Administrator\Desktop\youtube-dl-JDFF\Unit1.pas=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/02 04:02:34.724,C:\Users\Administrator\Desktop\youtube-dl-JDFF\Project1.dproj=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/11/02 05:22:06.113,=C:\Users\Administrator\Desktop\youtube-dl-JDFF\WinHttp_TLB.pas</Transaction>
+    <Transaction>2021/11/02 06:14:54.612,C:\Users\Administrator\Desktop\youtube-dl-JDFF\JDFF.dproj=C:\Users\Administrator\Desktop\youtube-dl-JDFF\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
